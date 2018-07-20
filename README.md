@@ -1,4 +1,4 @@
-# R-Ladies Chicago July Technical Meetup: Game Time! R in Minecraft with David Smith
+# R-Ladies Chicago: Game Time! R in Minecraft
   
 This repo contains materials from R in Minecraft Talk with David Smith. This talk took place at the R-Ladies Chicago [Meetup](https://www.meetup.com/rladies-chicago/events/252249636/) on July 19, 2018.  
 
